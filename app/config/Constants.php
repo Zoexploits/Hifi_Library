@@ -2,7 +2,7 @@
 namespace App\config;
 
 class Constants{
-    const DATABASE_NAME="hifiDB";
+    const DATABASE_NAME="hifidb";
     const DB_USERNAME="root";
     const DB_HOST="localhost";
     const DB_PASSWORD="";

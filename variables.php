@@ -48,7 +48,7 @@ for ($i=0; $i < count($qualifiedStudents); $i++) {
 
 
 
-//hifi video
+//hifi videos
 
 
 

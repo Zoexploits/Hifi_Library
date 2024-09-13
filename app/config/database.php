@@ -5,7 +5,7 @@
 $host = 'localhost';
 $username = 'root';
 $password = '';
-$database = 'hifiDB';
+$database = 'hifidb';
 $sqlFilePath = 'database.sql';
 
 try {

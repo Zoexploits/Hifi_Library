@@ -1,7 +1,4 @@
 
-CREATE DATABASE hifidb;
-USE hifidb;
-
 -- 1. Customers Table
 CREATE TABLE  IF NOT EXISTS customers (
     id INT AUTO_INCREMENT PRIMARY KEY,
